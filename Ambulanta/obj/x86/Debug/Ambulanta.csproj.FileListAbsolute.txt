@@ -1,0 +1,93 @@
+C:\Users\Miske\AppData\Local\Temporary Projects\Ambulanta\bin\Debug\Ambulanta.exe
+C:\Users\Miske\AppData\Local\Temporary Projects\Ambulanta\bin\Debug\Ambulanta.pdb
+C:\Users\Miske\AppData\Local\Temporary Projects\Ambulanta\obj\x86\Debug\Ambulanta.Form1.resources
+C:\Users\Miske\AppData\Local\Temporary Projects\Ambulanta\obj\x86\Debug\Ambulanta.Form2.resources
+C:\Users\Miske\AppData\Local\Temporary Projects\Ambulanta\obj\x86\Debug\Ambulanta.Properties.Resources.resources
+C:\Users\Miske\AppData\Local\Temporary Projects\Ambulanta\obj\x86\Debug\Ambulanta.csproj.GenerateResource.Cache
+C:\Users\Miske\AppData\Local\Temporary Projects\Ambulanta\obj\x86\Debug\Ambulanta.exe
+C:\Users\Miske\AppData\Local\Temporary Projects\Ambulanta\obj\x86\Debug\Ambulanta.pdb
+C:\Users\Miske\AppData\Local\Temporary Projects\Ambulanta\obj\x86\Debug\Ambulanta.Form3.resources
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.exe
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.pdb
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\bin\Debug\Ambulanta.exe
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\bin\Debug\Ambulanta.pdb
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form1.resources
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form2.resources
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form3.resources
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Properties.Resources.resources
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.csproj.GenerateResource.Cache
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.csprojResolveAssemblyReference.cache
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form4.resources
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form5.resources
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form6.resources
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form7.resources
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form10.resources
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form8.resources
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form9.resources
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\bin\Debug\Ambulanta.accdb
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\bin\Debug\Ambulanta.exe.config
+C:\Users\Miske\documents\visual studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form11.resources
+C:\Users\Miske\Documents\Visual Studio 2010\Projects\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.csproj.CoreCompileInputs.cache
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\bin\Debug\Ambulanta.accdb
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\bin\Debug\Ambulanta.exe.config
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\bin\Debug\Ambulanta.exe
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\bin\Debug\Ambulanta.pdb
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.csprojResolveAssemblyReference.cache
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form1.resources
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form10.resources
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form11.resources
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form2.resources
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form3.resources
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form4.resources
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form5.resources
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form6.resources
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form7.resources
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form8.resources
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form9.resources
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Properties.Resources.resources
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.csproj.GenerateResource.cache
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.csproj.CoreCompileInputs.cache
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.exe
+C:\Users\Miske\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.pdb
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\bin\Debug\Ambulanta.accdb
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\bin\Debug\Ambulanta.exe.config
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\bin\Debug\Ambulanta.exe
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\bin\Debug\Ambulanta.pdb
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form1.resources
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form10.resources
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form11.resources
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form2.resources
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form3.resources
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form4.resources
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form5.resources
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form6.resources
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form7.resources
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form8.resources
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form9.resources
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.exe
+C:\Users\Korisnik\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.pdb
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\bin\Debug\Ambulanta.accdb
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\bin\Debug\Ambulanta.exe.config
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\bin\Debug\Ambulanta.exe
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\bin\Debug\Ambulanta.pdb
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form1.resources
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form10.resources
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form11.resources
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form2.resources
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form3.resources
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form4.resources
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form5.resources
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form6.resources
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form7.resources
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form8.resources
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Form9.resources
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.Properties.Resources.resources
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.exe
+C:\Users\PC\source\repos\Ambulanta\Ambulanta\obj\x86\Debug\Ambulanta.pdb
